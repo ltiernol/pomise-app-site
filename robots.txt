@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://ltiernol.github.io/peel-app-site/sitemap.xml
-
