@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ltiernol.github.io/peel-app-site/sitemap.xml
+Sitemap: https://ltiernol.github.io/pomise-app-site/sitemap.xml
